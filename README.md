@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenixcoder-6&label=Profile%20views&color=0e75b6&style=flat" alt="phoenixcoder-6" /> </p>
 
-- 🌱 I’m currently learning **Gen-AI, Machine Learning, NLP, Deep Learning**
+- 🌱 I’m currently into **Gen-AI, AI-ML, NLP, Deep Learning**
 
-- 🔭 I’m currently working on **Data Mining & Pattern Mining System**
+- 🔭 I’m currently working on **Data Mining & Pattern Mining Systems**
 
 - 👨‍💻 All of my projects are available at [https://ankita-ghosh-06.netlify.app/](https://ankita-ghosh-06.netlify.app/)
 
 - 📫 How to reach me **ankghosh066@gmail.com**
 
-- ⚡ Fun fact **😊**
+- ⚡ Fun fact **I automate things not because I’m lazy, but because I believe in efficiency… and naps...😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
