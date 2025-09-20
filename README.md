@@ -14,7 +14,7 @@
 
 - 📫 Reach me at ankghosh066@gmail.com
 
-- 🤖 You can even chat with my assistant AURA—she’s pretty good at conversations 😉
+- 🤖 You can even chat with my assistant [AURA](https://www.chatbase.co/chatbot-iframe/y75e5uhyctETJDQN0Udob) — Trust me she’s pretty good at conversations 😉
 
 - ⚡ Fun fact: I automate things not because I’m lazy, but because I believe in efficiency… and well, naps. 😌
 
