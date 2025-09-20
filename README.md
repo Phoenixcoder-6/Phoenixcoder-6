@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankita Ghosh</h1>
 <h3 align="center">A passionate AI-ML enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif">
+<img align="right" alt="coding" width="250" src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenixcoder-6&label=Profile%20views&color=0e75b6&style=flat" alt="phoenixcoder-6" /> </p>
