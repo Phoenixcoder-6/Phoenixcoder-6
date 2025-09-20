@@ -10,7 +10,7 @@
 
 - 🔭 Actively working on Data Mining & Pattern Mining Systems
 
-- 👨‍💻 Explore all my projects here: [Portfolio](https://ankita-ghosh-06.netlify.app/)
+- 👨‍💻 Explore all my projects here: [Portfolio](https://ankita-ghosh-ai-ml-2cwqmr6.gamma.site/) 
 
 - 📫 Reach me at ankghosh066@gmail.com
 
