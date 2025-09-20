@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ankita Ghosh</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">A passionate AI-ML enthusiast from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenixcoder-6&label=Profile%20views&color=0e75b6&style=flat" alt="phoenixcoder-6" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning ,NLP, Deep Learning**
+- 🌱 I’m currently learning **Gen-AI, Machine Learning, NLP, Deep Learning**
 
-- 🔭 I’m currently working on **Automatic Text Summarization model**
+- 🔭 I’m currently working on **Data Mining & Pattern Mining System**
 
 - 👨‍💻 All of my projects are available at [https://ankita-ghosh-06.netlify.app/](https://ankita-ghosh-06.netlify.app/)
 
 - 📫 How to reach me **ankghosh066@gmail.com**
 
-- ⚡ Fun fact **I think I am an enthusiastic learner😊**
+- ⚡ Fun fact **😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
